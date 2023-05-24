@@ -1,5 +1,5 @@
 {
-  "name": "rinstat",
+  "name": "electron-demo",
   "version": "0.1.0",
   "description": "",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "make": "electron-forge make"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.1.1",
     "@electron-forge/maker-deb": "^6.1.1",
